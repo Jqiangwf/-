@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dic>
+<error>0</error>
+<data>
+    <cate_id>1</cate_id>
+    <game_name>英雄联盟</game_name>
+    <short_name>LOL</short_name>
+    <game_url>/directory/game/LOL</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/c543faae97189c529c37b7741906d5a1.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/03f34b23c3b92aebddc99fb1a307a4df.jpg</game_icon>
+    <online_room>327</online_room>
+    <online_room_ios>22</online_room_ios>
+</data>
+<data>
+    <cate_id>2</cate_id>
+    <game_name>炉石传说</game_name>
+    <short_name>How</short_name>
+    <game_url>/directory/game/How</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/ff869b8da8231a3f2e8136f6d46e052b.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/96ebd8a833087a8e61281af2de6857af.jpg</game_icon>
+    <online_room>68</online_room>
+    <online_room_ios>8</online_room_ios>
+</data>
+<data>
+    <cate_id>3</cate_id>
+    <game_name>DOTA2</game_name>
+    <short_name>DOTA2</short_name>
+    <game_url>/directory/game/DOTA2</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/dfb7341f7c3119fdc2e8cf0d8bf2592c.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/d35daa73b2b09a125bab8a899b33a0eb.jpg</game_icon>
+    <online_room>44</online_room>
+    <online_room_ios>13</online_room_ios>
+</data>
+<data>
+    <cate_id>33</cate_id>
+    <game_name>穿越火线</game_name>
+    <short_name>CF</short_name>
+    <game_url>/directory/game/CF</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/2baff99c2d776f70d95a43aff087952a.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/e595f2e19fb82948bd3f59211cc53a74.jpg</game_icon>
+    <online_room>37</online_room>
+    <online_room_ios>11</online_room_ios>
+</data>
+<data>
+    <cate_id>5</cate_id>
+    <game_name>魔兽世界</game_name>
+    <short_name>WOW</short_name>
+    <game_url>/directory/game/WOW</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/7c6a0ac74e59c3e82f9827c50b4a221f.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/ca5b0190510f366d5b8a9b3ae933146f.jpg</game_icon>
+    <online_room>48</online_room>
+    <online_room_ios>4</online_room_ios>
+</data>
+<data>
+    <cate_id>35</cate_id>
+    <game_name>风暴英雄</game_name>
+    <short_name>HOTS</short_name>
+    <game_url>/directory/game/HOTS</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/a261f533177b3c78859d9d29d8eb0633.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/492d55b71ef580271a0858b26f8589c3.jpg</game_icon>
+    <online_room>12</online_room>
+    <online_room_ios>3</online_room_ios>
+</data>
+<data>
+    <cate_id>4</cate_id>
+    <game_name>星际争霸</game_name>
+    <short_name>SC</short_name>
+    <game_url>/directory/game/SC</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/285a8f700e8e9b18b165c9d1536aa552.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/844ae9ffb6a6e8d0c4c0fd0e14383f0a.jpg</game_icon>
+    <online_room>16</online_room>
+    <online_room_ios>2</online_room_ios>
+</data>
+<data>
+    <cate_id>29</cate_id>
+    <game_name>格斗游戏</game_name>
+    <short_name>FTG</short_name>
+    <game_url>/directory/game/FTG</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/aa8f65c3c7efd2c0300b39e9205bb9c0.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/ae9bd5038761b103ec0e6412e25604f9.jpg</game_icon>
+    <online_room>21</online_room>
+    <online_room_ios>5</online_room_ios>
+</data>
+<data>
+    <cate_id>19</cate_id>
+    <game_name>主机游戏</game_name>
+    <short_name>TVgame</short_name>
+    <game_url>/directory/game/TVgame</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/40dbf46bd6b2e828122f014c070a3db2.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/733d43b1891fc262ba3a314695f16920.jpg</game_icon>
+    <online_room>121</online_room>
+    <online_room_ios>20</online_room_ios>
+</data>
+<data>
+    <cate_id>40</cate_id>
+    <game_name>地下城与勇士</game_name>
+    <short_name>DNF</short_name>
+    <game_url>/directory/game/DNF</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/02ef326d73d00d8a077d0d9b17fcee73.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/c79c024c1a29b8400110114a53d4ab8d.jpg</game_icon>
+    <online_room>40</online_room>
+    <online_room_ios>7</online_room_ios>
+</data>
+<data>
+    <cate_id>30</cate_id>
+    <game_name>手游&amp;amp;掌机</game_name>
+    <short_name>phone</short_name>
+    <game_url>/directory/game/phone</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/a725e4b2705cc8bcb662f2d366a76793.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/c50dd6fe568750e899038b6e03ed145a.jpg</game_icon>
+    <online_room>23</online_room>
+    <online_room_ios>6</online_room_ios>
+</data>
+<data>
+    <cate_id>155</cate_id>
+    <game_name>篮球游戏</game_name>
+    <short_name>lqyx</short_name>
+    <game_url>/directory/game/lqyx</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/4338f8fb6c7e7863ecef99624ca31756.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/d97bf645fc7ec3a191c331feb65b9de6.jpg</game_icon>
+    <online_room>13</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>51</cate_id>
+    <game_name>足球竞技</game_name>
+    <short_name>footballgame</short_name>
+    <game_url>/directory/game/footballgame</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/6527c4b35ca70ecee934835015e39d0e.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/aa2eae5fe08e522f5d163a40233438b8.jpg</game_icon>
+    <online_room>24</online_room>
+    <online_room_ios>5</online_room_ios>
+</data>
+<data>
+    <cate_id>124</cate_id>
+    <game_name>户外直播</game_name>
+    <short_name>hwzb</short_name>
+    <game_url>/directory/game/hwzb</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/b0c235b6e8a932eb065a61efcd53af0c.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/dac10400b830ad40c9a6755c08770d49.jpg</game_icon>
+    <online_room>31</online_room>
+    <online_room_ios>2</online_room_ios>
+</data>
+<data>
+    <cate_id>132</cate_id>
+    <game_name>全民星秀</game_name>
+    <short_name>qmxx</short_name>
+    <game_url>/directory/game/qmxx</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/5d93494ae18fe03edda358f39f675826.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/0f09ac2fb1c31767cfa3add4d3e6864a.jpg</game_icon>
+    <online_room>22</online_room>
+    <online_room_ios>1</online_room_ios>
+</data>
+<data>
+    <cate_id>133</cate_id>
+    <game_name>御宅职人</game_name>
+    <short_name>yzzr</short_name>
+    <game_url>/directory/game/yzzr</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/07d3509e41211e193214b7db6c28a273.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/6cd6e7a65aa387ae9dea8dea8f1f9836.jpg</game_icon>
+    <online_room>32</online_room>
+    <online_room_ios>3</online_room_ios>
+</data>
+<data>
+    <cate_id>11</cate_id>
+    <game_name>使命召唤OL</game_name>
+    <short_name>CODONLINE</short_name>
+    <game_url>/directory/game/CODONLINE</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/e69e7697800a64430327259f9d087145.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/7a996fe12b291f84029fe58c3aaa5d44.jpg</game_icon>
+    <online_room>15</online_room>
+    <online_room_ios>1</online_room_ios>
+</data>
+<data>
+    <cate_id>59</cate_id>
+    <game_name>天涯明月刀</game_name>
+    <short_name>tianya</short_name>
+    <game_url>/directory/game/tianya</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/4182e6a8cf269acb3c50b01f11e60269.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/03aba80fd6abd5569b5ecc8095fb2e7e.jpg</game_icon>
+    <online_room>11</online_room>
+    <online_room_ios>1</online_room_ios>
+</data>
+<data>
+    <cate_id>6</cate_id>
+    <game_name>CS:GO</game_name>
+    <short_name>CSGO</short_name>
+    <game_url>/directory/game/CSGO</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/da50cdd66c2b7f5748bc0f2f098dda55.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/349a00079b4f995538da1c228ff9e0ba.jpg</game_icon>
+    <online_room>13</online_room>
+    <online_room_ios>4</online_room_ios>
+</data>
+<data>
+    <cate_id>55</cate_id>
+    <game_name>魔兽争霸</game_name>
+    <short_name>mszb</short_name>
+    <game_url>/directory/game/mszb</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/2bcd85bc223deaab025ff6fda1802b2d.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/38707d3f1c4c7057716b4af5947decb1.jpg</game_icon>
+    <online_room>24</online_room>
+    <online_room_ios>6</online_room_ios>
+</data>
+<data>
+    <cate_id>90</cate_id>
+    <game_name>跑跑卡丁车</game_name>
+    <short_name>Popkart</short_name>
+    <game_url>/directory/game/Popkart</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/c44ee9269ef5f479c4c9c9c9101a3198.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/e4f2b6dcb9b742e783f80165d106e0fb.jpg</game_icon>
+    <online_room>4</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>13</cate_id>
+    <game_name>剑灵</game_name>
+    <short_name>BladeSoul</short_name>
+    <game_url>/directory/game/BladeSoul</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/c436c4c3c25cf0866d96f7ee8ad3f925.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/7f009302fb191324b0e809e96e40c14e.jpg</game_icon>
+    <online_room>10</online_room>
+    <online_room_ios>4</online_room_ios>
+</data>
+<data>
+    <cate_id>46</cate_id>
+    <game_name>逆战</game_name>
+    <short_name>NZ</short_name>
+    <game_url>/directory/game/NZ</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/a73c6f233b0c25fa0469bc34cd691172.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/b9e04bc06b5d216db74c0575d28d3a6b.jpg</game_icon>
+    <online_room>9</online_room>
+    <online_room_ios>2</online_room_ios>
+</data>
+<data>
+    <cate_id>26</cate_id>
+    <game_name>怀旧游戏</game_name>
+    <short_name>classic</short_name>
+    <game_url>/directory/game/classic</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/7b5d81c4481b5a8b3bba263517c4843b.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/069cd4211cbff6484a90c6aabeb876a8.jpg</game_icon>
+    <online_room>63</online_room>
+    <online_room_ios>7</online_room_ios>
+</data>
+<data>
+    <cate_id>14</cate_id>
+    <game_name>三国杀</game_name>
+    <short_name>sanguosha</short_name>
+    <game_url>/directory/game/sanguosha</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/9650c1b0ed00ea010d44654f8bcea58a.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/0c671822d7124a8aa5366a4e0c4208c2.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>24</cate_id>
+    <game_name>神之浩劫</game_name>
+    <short_name>SMITE</short_name>
+    <game_url>/directory/game/SMITE</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/b124888fc5d7e71e6367c0820f2adb7f.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/9a1288a9d2d81e84ab88f37e9fca0a4c.jpg</game_icon>
+    <online_room>4</online_room>
+    <online_room_ios>2</online_room_ios>
+</data>
+<data>
+    <cate_id>44</cate_id>
+    <game_name>我的世界</game_name>
+    <short_name>MC</short_name>
+    <game_url>/directory/game/MC</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/fed3c5e04e1598cce20800af0da7254b.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/ae27fbeac2c32e508d0c748530104e75.jpg</game_icon>
+    <online_room>14</online_room>
+    <online_room_ios>1</online_room_ios>
+</data>
+<data>
+    <cate_id>152</cate_id>
+    <game_name>云栖大会</game_name>
+    <short_name>yqdh</short_name>
+    <game_url>/directory/game/yqdh</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/75e0ae0f39fc4638b33fc46d3259d6e8.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/2435c78a49a83dab0859ce20ab023761.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>62</cate_id>
+    <game_name>综合游戏</game_name>
+    <short_name>zh</short_name>
+    <game_url>/directory/game/zh</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/f9d75ea6e1f97829e255ae4f378b2324.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/0d65b98b567bcee5dad77b953538a911.jpg</game_icon>
+    <online_room>11</online_room>
+    <online_room_ios>1</online_room_ios>
+</data>
+<data>
+    <cate_id>111</cate_id>
+    <game_name>桌游密室</game_name>
+    <short_name>BoardGame</short_name>
+    <game_url>/directory/game/BoardGame</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/c538a2fa4d98a71162ce39736b80943f.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/6e46875738f9a33778b6191e16618e8d.jpg</game_icon>
+    <online_room>3</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>147</cate_id>
+    <game_name>高达文化区</game_name>
+    <short_name>GUNDAM</short_name>
+    <game_url>/directory/game/GUNDAM</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/2d6f91635d9948ef1c181a7e973400a8.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/54d192f678abea1478fcc35b0da8924a.jpg</game_icon>
+    <online_room>4</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>48</cate_id>
+    <game_name>300英雄</game_name>
+    <short_name>300heroes</short_name>
+    <game_url>/directory/game/300heroes</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/984c7754c655bd201b079ebae65e2bb5.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/cd3b9aa5331b698426f6014a44a00b49.jpg</game_icon>
+    <online_room>13</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>32</cate_id>
+    <game_name>暗黑破坏神3</game_name>
+    <short_name>DIABLO3</short_name>
+    <game_url>/directory/game/DIABLO3</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/121b523ec0b8c1731fd6cdd51f4cfc67.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/951febb68a080dd3df37dbd1117ba20f.jpg</game_icon>
+    <online_room>31</online_room>
+    <online_room_ios>1</online_room_ios>
+</data>
+<data>
+    <cate_id>65</cate_id>
+    <game_name>剑侠情缘网络版叁</game_name>
+    <short_name>JX3</short_name>
+    <game_url>/directory/game/JX3</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/10bfb185da447339c78bc319f6d79156.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/4f88a0ac0051993b208ac5a5a5f4478c.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>38</cate_id>
+    <game_name>三国争霸2</game_name>
+    <short_name>SanGuo2</short_name>
+    <game_url>/directory/game/SanGuo2</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/90c23284747dc9ee42345be93332cd57.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/9993b0545c8a011e7718e7c3776e9fae.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>56</cate_id>
+    <game_name>怪物猎人4G</game_name>
+    <short_name>MH4G</short_name>
+    <game_url>/directory/game/MH4G</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/d99f022cb17e3fa2720a27cc64a2481b.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/81ea15e552bdc18f44d0b2eb7721a76c.jpg</game_icon>
+    <online_room>4</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>54</cate_id>
+    <game_name>音乐游戏</game_name>
+    <short_name>MG</short_name>
+    <game_url>/directory/game/MG</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/a801fa582313846b2cc190cfc56355bb.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/12eb47651d00217b99ac3f1d7c7a35a1.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>66</cate_id>
+    <game_name>反恐精英</game_name>
+    <short_name>CS</short_name>
+    <game_url>/directory/game/CS</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/86fe73e0d9aaa4672874c11753a14dbc.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/22eda0e81a9eae08be54ba4c724fd3a4.jpg</game_icon>
+    <online_room>4</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>23</cate_id>
+    <game_name>饥荒</game_name>
+    <short_name>famine</short_name>
+    <game_url>/directory/game/famine</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/ea235f91a6d4a3ca682d04e3d9a6f485.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/d925280559f0cfb472ee5e9fae05672c.jpg</game_icon>
+    <online_room>6</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>57</cate_id>
+    <game_name>行星边际2</game_name>
+    <short_name>PlanetSide2</short_name>
+    <game_url>/directory/game/PlanetSide2</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/eb010410e75fdfaf3e5c65a9ffabded1.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/dc30c4bbd4c5fb00b7ce497d4aac4a91.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>97</cate_id>
+    <game_name>决战苍穹</game_name>
+    <short_name>jzcq</short_name>
+    <game_url>/directory/game/jzcq</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/b193fea0fbab748e80301b509846f361.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/b6eac0556465932758a3a819d1892004.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>61</cate_id>
+    <game_name>疾风之刃</game_name>
+    <short_name>kritika</short_name>
+    <game_url>/directory/game/kritika</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/180da5188396ea3b0799b514e8ea2426.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/dd8cab0f0151279847f706764b5ab3bf.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>47</cate_id>
+    <game_name>竞速游戏</game_name>
+    <short_name>jingsu</short_name>
+    <game_url>/directory/game/jingsu</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/d1e30ea9f50261a9b1012716a50e8fa5.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/72d46c493fc5e0c887730051647f7e97.jpg</game_icon>
+    <online_room>3</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>63</cate_id>
+    <game_name>魔域</game_name>
+    <short_name>Eudemons</short_name>
+    <game_url>/directory/game/Eudemons</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/3ba667642ce1aea32438d22e8328b048.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/be7e81f077c3218a863a6677e1567b60.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>12</cate_id>
+    <game_name>超神英雄</game_name>
+    <short_name>HON</short_name>
+    <game_url>/directory/game/HON</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/f8bbc3cc7947c316935efcfbbf9161c7.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/31d529ede31d3ee587c420d0d22d916a.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>60</cate_id>
+    <game_name>神谕之战</game_name>
+    <short_name>Tera</short_name>
+    <game_url>/directory/game/Tera</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/639621fa1b7735bd9bb7e92fa5ac907f.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/2aea0a1c25778434f5eb0b0c753855f9.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>77</cate_id>
+    <game_name>英魂之刃</game_name>
+    <short_name>COS</short_name>
+    <game_url>/directory/game/COS</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/85aa9dbccb46ce0ef6dd7121da931248.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/9501ed868a3a956a8146d7bf9f5f6093.jpg</game_icon>
+    <online_room>2</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>80</cate_id>
+    <game_name>九阴真经</game_name>
+    <short_name>JYZJ</short_name>
+    <game_url>/directory/game/JYZJ</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/710acac9f188a57ec21e01ef684f54d9.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/eb42a2b219ea2819a98b9b78de1708ec.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>15</cate_id>
+    <game_name>激战2</game_name>
+    <short_name>GuildWars2</short_name>
+    <game_url>/directory/game/GuildWars2</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/c061be6a74e33148a7ec6969cd35c7d9.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/f474c4fee684643e1e1095ee77254e65.jpg</game_icon>
+    <online_room>3</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>87</cate_id>
+    <game_name>群雄逐鹿</game_name>
+    <short_name>qunxiongzhulu</short_name>
+    <game_url>/directory/game/qunxiongzhulu</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/a1a67b6127cc2158964fca289934650d.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/cec80ada1292b041c72e1451d6957d94.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>88</cate_id>
+    <game_name>射雕ZERO</game_name>
+    <short_name>SDZERO</short_name>
+    <game_url>/directory/game/SDZERO</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/749a1f2c5d8fddb7a052b806c5ad7f65.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/8c69a7192e96a6a01e7e8fa6c5ca9103.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>89</cate_id>
+    <game_name>王牌对决</game_name>
+    <short_name>wangpaiduijue</short_name>
+    <game_url>/directory/game/wangpaiduijue</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/ab0605c4c77adb08ae3dd83370ea992f.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/71344d29bfda54fbe6ebc139bc34a755.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>95</cate_id>
+    <game_name>全球使命</game_name>
+    <short_name>quanqiu</short_name>
+    <game_url>/directory/game/quanqiu</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/03edaf48fb0e797cb55ba3f2d0a6c68a.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/b2b82764314aecd127f802119c90e6ab.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>41</cate_id>
+    <game_name>最终幻想14</game_name>
+    <short_name>FF14</short_name>
+    <game_url>/directory/game/FF14</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/76319e009e40515ff905804275bd8f7d.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/93bcd596ac6e919948183eb170de6dee.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>101</cate_id>
+    <game_name>天之禁</game_name>
+    <short_name>tianzhijin</short_name>
+    <game_url>/directory/game/tianzhijin</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/3166eb5fad2bdcceff6498e7c3698454.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/35e8a3e9622d3d9b5e4468dc0ccd5f10.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>69</cate_id>
+    <game_name>梦幻西游</game_name>
+    <short_name>MHXYOL</short_name>
+    <game_url>/directory/game/MHXYOL</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/e129b861470bba48646b1aa0a1da3d8e.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/acc70cb56bfb5f69cdec1c82bbde9c19.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>105</cate_id>
+    <game_name>天谕</game_name>
+    <short_name>Revelation</short_name>
+    <game_url>/directory/game/Revelation</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/2dcbb7566c7d4200dcd5439565778e05.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/1ea66b4386c5708aad169fabac67c831.jpg</game_icon>
+    <online_room>2</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>106</cate_id>
+    <game_name>龙之谷</game_name>
+    <short_name>DragonNest</short_name>
+    <game_url>/directory/game/DragonNest</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/49b93de18197170b2f11aa8577adb4cd.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/bb89a8da0ce640273048a53ad88f3fe3.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>109</cate_id>
+    <game_name>战舰世界</game_name>
+    <short_name>WorldofWarships</short_name>
+    <game_url>/directory/game/WorldofWarships</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/ce64232118fcc7c0e46b08ad20ec5cc5.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/5fa4c7ceb71fc07d4685e53292ed62a9.jpg</game_icon>
+    <online_room>4</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>82</cate_id>
+    <game_name>第三把剑</game_name>
+    <short_name>TheThirdSword</short_name>
+    <game_url>/directory/game/TheThirdSword</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/d954b9cd80b576e600413ef69cf76cea.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/f3e2ebcbe3bf8472c2963a545adf6543.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>83</cate_id>
+    <game_name>梦三国2</game_name>
+    <short_name>m3guo2</short_name>
+    <game_url>/directory/game/m3guo2</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/ceaa3c1396b742bf2ade14c07d606474.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/d6510719689c4aa1d91e3ddc41d5575d.jpg</game_icon>
+    <online_room>2</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>78</cate_id>
+    <game_name>梦塔防</game_name>
+    <short_name>TDOTK</short_name>
+    <game_url>/directory/game/TDOTK</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/5d0eeff1a833fea49ba4e063c60946d4.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/fe7e4d2a2eba0d54aee623cb12efa7f5.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>79</cate_id>
+    <game_name>流放之路POE</game_name>
+    <short_name>PathofExile</short_name>
+    <game_url>/directory/game/PathofExile</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/baff595e9b6dac78998cc466c9b66a60.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/7e7ed485d5c4ad4c00c91899733d7e90.jpg</game_icon>
+    <online_room>2</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>123</cate_id>
+    <game_name>全民超神</game_name>
+    <short_name>wemoba</short_name>
+    <game_url>/directory/game/wemoba</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/e9c9278dec6dda9dcdc9883fc14c78cd.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/404c4f46b54e9e92a16eb7f879b2fc0c.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>126</cate_id>
+    <game_name>星际战甲</game_name>
+    <short_name>Warframe</short_name>
+    <game_url>/directory/game/Warframe</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/511b5a028d4b239f66a68c249fe474a2.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/9db30dbf8ffaa3d35a4ddf8b4dc7ac0e.jpg</game_icon>
+    <online_room>4</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>127</cate_id>
+    <game_name>上古世纪</game_name>
+    <short_name>sgsj</short_name>
+    <game_url>/directory/game/sgsj</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/fd2ef589fddd10a733ab7410131451e9.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/aa83765ac68121a956d8cd8a9fda703e.jpg</game_icon>
+    <online_room>3</online_room>
+    <online_room_ios>1</online_room_ios>
+</data>
+<data>
+    <cate_id>128</cate_id>
+    <game_name>英雄三国</game_name>
+    <short_name>yxsg</short_name>
+    <game_url>/directory/game/yxsg</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/d0aa5aa16f6b66f9e1e4abc0e8b35b19.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/88f0cf92a0f4cc166dcbe59afaeef53c.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>129</cate_id>
+    <game_name>像三国</game_name>
+    <short_name>xsg</short_name>
+    <game_url>/directory/game/xsg</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/5944be42380ac5bc1ab8a86c8b8286a0.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/be545d3e12af1d8aaf9d65b19625ee77.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>130</cate_id>
+    <game_name>龙翼编年史</game_name>
+    <short_name>lybns</short_name>
+    <game_url>/directory/game/lybns</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/cc6a78f12c7b84577d42beca0bd85ecf.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/b9da0be36887975e8381f3aba2d01194.jpg</game_icon>
+    <online_room>1</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>142</cate_id>
+    <game_name>坦克世界</game_name>
+    <short_name>TKCJ</short_name>
+    <game_url>/directory/game/TKCJ</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/8bc5db30b43ba04ca921d3ca00977e14.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/13c570fa176eda33c5c949d3fd15cf10.jpg</game_icon>
+    <online_room>9</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>143</cate_id>
+    <game_name>征途2动作版</game_name>
+    <short_name>ZT2</short_name>
+    <game_url>/directory/game/ZT2</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/4d609fba166237fb841fd4def3b606b2.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/84887f07e730eb7f9f0514b855512442.jpg</game_icon>
+    <online_room>0</online_room>
+    <online_room_ios>0</online_room_ios>
+</data>
+<data>
+    <cate_id>148</cate_id>
+    <game_name>守望先锋</game_name>
+    <short_name>Overwatch</short_name>
+    <game_url>/directory/game/Overwatch</game_url>
+    <game_src>http://staticlive.douyutv.com/upload/game_cate/9967c133fb4af633d0cfc537519d4c7b.jpg</game_src>
+    <game_icon>http://staticlive.douyutv.com/upload/game_cate/c29a7ca0ace65cf941448253c2ede86d.jpg</game_icon>
+    <online_room>4</online_room>
+    <online_room_ios>3</online_room_ios>
+</data>
+</dic>
