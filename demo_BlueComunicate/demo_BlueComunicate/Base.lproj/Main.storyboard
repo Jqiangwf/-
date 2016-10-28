@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11201" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="RIh-HR-Rmi">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Item-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="lGi-cj-riQ">
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="274" id="y6X-Aq-8r8"/>
+                                </constraints>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YXr-Kf-y2v">
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="31" id="Rqe-F8-GPg"/>
+                                    <constraint firstAttribute="height" constant="30" id="tzm-kQ-ADC"/>
+                                </constraints>
+                                <state key="normal" title="发送"/>
+                                <connections>
+                                    <action selector="senderMsg:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jfB-1H-MDa"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="b3h-Ht-H8o">
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="b3h-Ht-H8o" secondAttribute="trailing" constant="16" id="81k-fz-boL"/>
+                            <constraint firstItem="b3h-Ht-H8o" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="16" id="DXl-ua-Rqj"/>
+                            <constraint firstItem="lGi-cj-riQ" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="SKG-2j-0eX"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="b3h-Ht-H8o" secondAttribute="bottom" id="dOt-t1-yV2"/>
+                            <constraint firstItem="YXr-Kf-y2v" firstAttribute="leading" secondItem="lGi-cj-riQ" secondAttribute="trailing" constant="31" id="hqS-9G-lHN"/>
+                            <constraint firstItem="YXr-Kf-y2v" firstAttribute="leading" secondItem="lGi-cj-riQ" secondAttribute="trailing" constant="31" id="odT-sM-ndr"/>
+                            <constraint firstAttribute="trailing" secondItem="YXr-Kf-y2v" secondAttribute="trailing" constant="23" id="uRx-2i-SYO"/>
+                            <constraint firstItem="lGi-cj-riQ" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="16" id="vTF-jG-EDR"/>
+                            <constraint firstItem="YXr-Kf-y2v" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="waO-de-NRG"/>
+                            <constraint firstItem="b3h-Ht-H8o" firstAttribute="top" secondItem="YXr-Kf-y2v" secondAttribute="bottom" constant="23" id="yhp-Y5-kry"/>
+                        </constraints>
+                    </view>
+                    <tabBarItem key="tabBarItem" title="Item" id="Qei-BF-39M"/>
+                    <navigationItem key="navigationItem" id="dad-eA-ZtM">
+                        <barButtonItem key="leftBarButtonItem" title="搜索设备" id="6Dn-25-9eQ">
+                            <connections>
+                                <action selector="searchDevice:" destination="BYZ-38-t0r" id="eJe-J0-G0J"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" title="打开天线" id="AnN-Ia-zeD">
+                            <connections>
+                                <action selector="startAdvertise:" destination="BYZ-38-t0r" id="ucY-GQ-TKq"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedTabBarMetrics key="simulatedBottomBarMetrics"/>
+                    <connections>
+                        <outlet property="textField" destination="lGi-cj-riQ" id="6Zu-xV-Ysp"/>
+                        <outlet property="textView" destination="b3h-Ht-H8o" id="5pM-jS-8Gx"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="909.60000000000002" y="798.35082458770626"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="u5y-WH-SeY">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="RIh-HR-Rmi" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="cun-D5-Qul">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="Bh9-YG-R68"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="w1t-AJ-0iK" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="792.95352323838085"/>
+        </scene>
+    </scenes>
+</document>
