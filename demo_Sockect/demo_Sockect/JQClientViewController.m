@@ -28,6 +28,7 @@
 - (void)socketDidDisconnect:(GCDAsyncSocket *)sock withError:(NSError *)err{
     [self showMsg:@"连接失败"];
 }
+//连接成功
 - (void)socket:(GCDAsyncSocket *)sock didReadData:(NSData *)data withTag:(long)tag{
     //假设都是纯文本
     NSString *text = [[NSString alloc]initWithData:data encoding:NSUTF8StringEncoding];
@@ -45,6 +46,7 @@
     if (text.length == 0) {
         return;
     }
+    //把内容发送给服务器
     [_socket writeData:[text dataUsingEncoding:NSUTF8StringEncoding] withTimeout:-1 tag:0];
     [self showMsg:[NSString stringWithFormat:@"发出的消息: %@",text]];
     _textField.text = @"";

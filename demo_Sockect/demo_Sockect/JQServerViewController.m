@@ -44,7 +44,7 @@
     //假设都是纯文本
     NSString *text = [[NSString alloc]initWithData:data encoding:NSUTF8StringEncoding];
     [self showMsg:[NSString stringWithFormat:@"收到消息: %@",text]];
-    //读完消息之后，制定继续
+    //读完消息之后，指定继续
     [_clientSocket readDataWithTimeout:-1 tag:0];
 }
 
